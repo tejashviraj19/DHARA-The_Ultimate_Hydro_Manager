@@ -58,6 +58,24 @@ An ideal fit for tackling **global food security** challenges sustainably. 🌐
 
 ---
 
+## 🚧 Project Status & Vision
+
+🔄 **Current Phase:** In Progress
+
+💡 **Project Vision:**  
+> A **Machine Learning–based AgriTech product** that can function even on a **2G network** — making precision agriculture accessible in **low-connectivity rural areas**.
+
+### Planned Capabilities:
+- 📲 **SMS-based chatbot** for farmer interaction  
+- 🤖 Real-time decision-making using **ML models**
+- 📡 Low-bandwidth optimization  
+- 📱 Android application for farm monitoring and control  
+- 🌾 Fully automated hydroponics control using sensor data
+
+This vision makes **DHARA** not just a device, but a step toward **inclusive digital agriculture**. 🚜📶
+
+---
+
 ## 🛠️ Tech Stack
 
 - 🔌 **Arduino**
@@ -65,6 +83,9 @@ An ideal fit for tackling **global food security** challenges sustainably. 🌐
 - 🧠 Sensor integration for environmental control
 - 🔁 Real-time data processing and alerts
 - 🧪 Hydroponic and aquaponic system design
+- 📲 Android App (planned)
+- 🧠 ML Models for automation (planned)
+- ✉️ SMS-based chatbot (planned)
 
 ---
 
@@ -82,4 +103,3 @@ Together, let’s build a greener future — one drop at a time. 💧🌿
 ## 📫 Connect
 
 Have questions or ideas? Let's collaborate! Reach out via [LinkedIn](#) or raise an issue here on GitHub. 🤝
-
