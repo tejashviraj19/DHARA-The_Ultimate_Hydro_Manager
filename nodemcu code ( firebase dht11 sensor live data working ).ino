@@ -7,7 +7,7 @@
 #define WIFI_PASSWORD "123456789"
 
 // Firebase credentials
-#define API_KEY "AIzaSyCxu076kqDUD4mqy_NzBrhZhxiBFn9hqCs"
+#define API_KEY "XXXXXXXXXXXXXXXXXXX" //AIzaSyCxu076kqDUD4mqy_NzBrhZhxiBFn9hqCs
 #define DATABASE_URL "https://nodemcu-e8e90-default-rtdb.firebaseio.com/"
 #define USER_EMAIL "imrishabh9628@gmail.com"
 #define USER_PASSWORD "firebase123"
