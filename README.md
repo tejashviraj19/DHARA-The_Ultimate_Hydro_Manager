@@ -93,4 +93,4 @@ Love what DHARA is solving for? 💚
 
 Have ideas, suggestions, or just want to connect?
 
-Feel free to reach out via [LinkedIn](#) or open an issue here on GitHub. Let’s grow the future of agriculture together! 🤝🌱
+Feel free to reach out via [LinkedIn](#https://www.linkedin.com/in/tejashviraj19/) or open an issue here on GitHub. Let’s grow the future of agriculture together! 🤝🌱
